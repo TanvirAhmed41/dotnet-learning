@@ -12,3 +12,4 @@ E:\dotnet-learning\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
 E:\dotnet-learning\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
 E:\dotnet-learning\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 E:\dotnet-learning\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
+E:\dotnet-learning\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
